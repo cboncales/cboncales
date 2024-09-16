@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Clark Boncales and I'm a 3rd yr College from Caraga State University</p>
+<p align="left">My name is Clark Boncales and I'm a 3rd yr BSIT Student from Caraga State University</p>
 
 ###
 
