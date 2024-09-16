@@ -1,4 +1,4 @@
-[<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
@@ -50,4 +50,7 @@
 </div>
 
 ###
-](https://discordapp.com/users/)
+
+<img src="https://raw.githubusercontent.com/cboncales/cboncales/output/snake.svg" alt="Snake animation" />
+
+###
