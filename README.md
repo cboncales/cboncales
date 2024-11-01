@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Clark Boncales and I'm a 3rd yr BSIT Student from Caraga State University</p>
+<p align="left">My name is Clark Boncales and I'm a 3rd yr BSIT student from Caraga State University</p>
 
 ###
 
@@ -44,6 +44,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" height="40" alt="vuetify logo"  />
 </div>
 
 ###
