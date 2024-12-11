@@ -78,4 +78,5 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/cboncales/cboncales/output/snake.svg" alt="Snake animation" />
 </div>
+
 ###
