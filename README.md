@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Clark Boncales and I'm a 3rd yr BSIT student from Caraga State University</p>
+<h3 align="left">My name is <b>Clark Boncales</b> and I'm a 3rd year BSIT student from Caraga State University</h3>
 
 <h3> "<i>Great things are not done by impulse, but by a series of small things brought together</i>" 
 - Vincent Van Gogh</h3>
