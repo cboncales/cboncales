@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>🔨 I'm currently working on Cafezy<br>🎯 Goals: FullStack Web Developer<br>🎲 Fun fact: I rarely sleep</p>
+<p align="left">✨ Creating bugs since 2022<br>🔨 I'm currently studying frontend<br>🎯 Goals: FullStack Web Developer<br>🎲 Fun fact: I rarely sleep</p>
 
 ###
 
