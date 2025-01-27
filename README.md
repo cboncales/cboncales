@@ -4,8 +4,7 @@
 
 <p align="left">My name is Clark Boncales and I'm a 3rd yr BSIT student from Caraga State University</p>
 
-<h3 align="left">"Great things are not done by impulse, but by a series of small things brought together"</h3>
-<h3 align="left">- Vincent Van Gogh</h3>
+<h3 align="left">"Great things are not done by impulse, but by a series of small things brought together"<br>- Vincent Van Gogh</h3>
 
 ###
 
